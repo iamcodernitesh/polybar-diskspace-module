@@ -7,7 +7,7 @@ A polybar Module which shows disk space in 4 different modes.
 * [Introduction](#introduction)
 * [Getting started](#getting-started)
   * [Dependencies](#dependencies)
-  * [Installing Dependency](#installation)
+  * [Installing Dependency](#installing-dependencies)
   * [Configuration](#configuration)
   * [Installation](#installation)
 * [License](#license)
