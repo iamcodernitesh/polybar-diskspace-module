@@ -1,0 +1,13 @@
+
+[module/disk]
+type = custom/script
+; Script
+; exec = /path/to/script < display_method
+; display_methods can be used_total , free , used , all
+exec = $HOME/.config/polybar/scripts/diskspace/diskspace.sh <<< all
+; Update interval
+interval = 600
+; Label
+label            =  %output%
+label-foreground = ${colors.foreground}
+label-padding    = 2 
