@@ -116,7 +116,11 @@ https://github.com/iamcodernitesh/polybar-diskspace-module.git
 ```shell
 chmod 755 install.sh
 ```
-3. Run the script
+3. Cd into the directory
+```shell
+cd polybar-diskspace-module
+```
+5. Run the script
 ```shell
 ./install.sh
 ```
